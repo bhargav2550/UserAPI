@@ -11,4 +11,8 @@ I just inserted two records manually into users table:<br>
 If we search for "will" it will return all the records with first_name beginning with "will".<br>
 ![Screenshot 2023-07-14 122418](https://github.com/bhargav2550/UserAPI/assets/106314092/876d7266-cf3f-4eb9-af5b-5dd540edf53c)
 
-If first_name not matched in users table it will call an external API and store the records in the database.
+If first_name not matched in users table it will call an external API and store the records in the database.<br>
+
+We can develop Restful API using Django and Django REST.<br>
+userAPI project is developed with Django only.<br>
+restful is developed with Django REST.
